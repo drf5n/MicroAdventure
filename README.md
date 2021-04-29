@@ -5,8 +5,9 @@ This code uses about 9K of Flash memory on an Uno to store about 30 rooms of des
     Sketch uses 8914 bytes (27%) of program storage space. Maximum is 32256 bytes.
     Global variables use 466 bytes (22%) of dynamic memory, leaving 1582 bytes for local variables. Maximum is 2048 bytes.
 
-Based on :
+Loosely based on :
 
+* http://www.digitalhumanities.org/dhq/vol/001/2/000009/000009.html#crowther1977
 * https://github.com/osgcc/colossal-cave-adventure and 
  https://github.com/osgcc/colossal-cave-adventure/blob/master/advdat.77-03-31
 * https://forum.arduino.cc/t/storing-a-struct-array-in-progmem/512308
